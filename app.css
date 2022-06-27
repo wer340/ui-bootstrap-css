@@ -6,7 +6,7 @@ div{
 }
 .blue{
     
-   
+   z-index: 1;
 background-color: blue;
 }
 .yellow{
